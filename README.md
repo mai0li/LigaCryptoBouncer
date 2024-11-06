@@ -13,10 +13,11 @@ Leveraging such info, it manages access/removal of members according to membersh
 ## Future Features
 
 - ⬜ Add support for retrieving channel member details
-- ⬜ Implement pagination for listing membership levels
-- ⬜ Improve error handling and logging
-- ⬜ Add support for retrieving channel member details
-- ⬜ Implement pagination for listing membership levels
+- ⬜ Distinguish members according to their member tier
+- ⬜ Retrieving Telegram group members
+- ⬜ Associating Telegram group members according to their Youtube IDs
+- ⬜ For now, exporting a list of Telegram members that _should_ be purged in sheet format
+- ⬜ In a near future, exporting membership list extraction onto a SQLite db so it can be compared in a sorta incremental routine
 
 ## Setup
 
