@@ -1,5 +1,7 @@
 # LigaCryptoBouncer
 
+<img src="icon.png" alt="LigaCryptoBouncer Logo" width="200"/>
+
 ## Overview
 
 LigaCryptoBouncer is a project designed to interact with YouTube's API to manage and retrieve information about channel memberships.  
